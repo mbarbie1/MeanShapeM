@@ -13,7 +13,7 @@ The main script files are:
   - meanshape_batch_vx.m
   - meanshape_gui_vx.m
   
-where the vx stands for the version number, e.g.: v1, v2, v3, ...
+where vx stands for the version number, e.g.: v1, v2, v3, ...
 
 An example dataset with downscaled brain slices and brain region annotations can be found in the dataset subfolder of the [still have to upload the example set]
 
